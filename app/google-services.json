@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362965697652",
+    "firebase_url": "https://proyeto-babc8.firebaseio.com",
+    "project_id": "proyeto-babc8",
+    "storage_bucket": "proyeto-babc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362965697652:android:4610a8124738a689",
+        "android_client_info": {
+          "package_name": "com.example.zenon.micalculadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362965697652-7cottc8b9e3l54aj54hkl9boqhnru6ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zenon.micalculadora",
+            "certificate_hash": "cab75dda9a40b183662cfc534e9fc56b9d94990e"
+          }
+        },
+        {
+          "client_id": "362965697652-6ohc8ajf40ih8m2bdnkqeihrn4k1udfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJFOhJw5P1k7AxHeEyMO7pPGQcRcMbxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362965697652-6ohc8ajf40ih8m2bdnkqeihrn4k1udfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
